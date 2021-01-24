@@ -5,6 +5,7 @@ public class Pracrice {
         System.out.println("first code");
         
         //ismail adjissi
+        System.out.println("hello world");
     }
 
 }
